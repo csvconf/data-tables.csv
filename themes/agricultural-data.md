@@ -52,6 +52,10 @@
 
 * [Community-curated list of additional places to find agricultural data](https://docs.google.com/spreadsheets/d/19kqNFLhMTY396N-n5dgiUXJic8dkpRMesk0xj_fin44/edit?usp=sharing)
 
+### International Coffee Organization 
+
+* [Monthly coffee prices statistics, available for free from 1990 to present day](http://www.ico.org/coffee_prices.asp)
+
 ## Interesting things that can be done
 
 TODO
