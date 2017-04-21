@@ -37,7 +37,20 @@
 
 ### CABI: Crop Protection Compendium
 
-* [CABI Crop Protection Compendium datasets tagged agrictulture](http://www.cabi.org/cpc/search/?q=agriculture)
+* [CABI Crop Protection Compendium datasets tagged agriculture](http://www.cabi.org/cpc/search/?q=agriculture)
+
+### Ending Rural Hunger
+
+* [Data catalog detailing Agricultural productivity gaps in countries around the world](https://endingruralhunger.org/data/download/)
+* [Ending Rural Hunger API access](https://api.endingruralhunger.org)
+
+### Food and Agriculture Organization of the United Nations (FAO)
+
+* [Food and agriculture data from 245 countries, bulk download (830MB) available](http://www.fao.org/faostat/en/#home)
+
+### Open Data Institute
+
+* [Community-curated list of additional places to find agricultural data](https://docs.google.com/spreadsheets/d/19kqNFLhMTY396N-n5dgiUXJic8dkpRMesk0xj_fin44/edit?usp=sharing)
 
 ## Interesting things that can be done
 
