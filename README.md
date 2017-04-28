@@ -53,6 +53,8 @@ A 101 on how to create data packages and put them into Dat to browse remote file
 
 ## Fieldbook
 
+[Jason Crawford](https://github.com/nokome), [Stencila](https://fieldbook.com/)
+
 Fieldbook is a information tool which combines the best of a database and a spreadsheet. Like a spreadsheet, it has a simple, lightweight grid UI; like a database, it supports relational modeling and querying. Also, every book gets an automatic JSON-based REST API.
 
 ## To be announced
