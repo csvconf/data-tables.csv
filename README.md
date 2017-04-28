@@ -51,7 +51,7 @@ A hands-on introduction to accessible, reproducible data analysis using Stencila
 
 A 101 on how to create data packages and put them into Dat to browse remote files on demand, increase download speed, and automate long-term data preservation.
 
-## Using Dat to Distribute Data Packages
+## Fieldbook
 
 Fieldbook is a information tool which combines the best of a database and a spreadsheet. Like a spreadsheet, it has a simple, lightweight grid UI; like a database, it supports relational modeling and querying. Also, every book gets an automatic JSON-based REST API.
 
