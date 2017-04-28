@@ -4,7 +4,7 @@
 
 ### Portland-specific
 
-* [USDA National Agricultural Statistics Service (Oregon Field Office) Historical Data](https://www.nass.usda.gov/Statistics_by_State/Oregon/Publications/Historical_Data/): #19
+* [USDA National Agricultural Statistics Service (Oregon Field Office) Historical Data](https://www.nass.usda.gov/Statistics_by_State/Oregon/Publications/Historical_Data/): [#19](../../issues/19)
 
 ### USDA
 * [USDA National Agricultural Statistics Service Data and Statistics](https://www.nass.usda.gov/Data_and_Statistics/index.php)
