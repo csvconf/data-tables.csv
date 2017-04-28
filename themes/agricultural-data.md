@@ -39,6 +39,23 @@
 
 * [CABI Crop Protection Compendium datasets tagged agrictulture](http://www.cabi.org/cpc/search/?q=agriculture): [#34](../../../issues/34)
 
+### Ending Rural Hunger
+
+* [Data catalog detailing Agricultural productivity gaps in countries around the world](https://endingruralhunger.org/data/download/)
+* [Ending Rural Hunger API access](https://api.endingruralhunger.org)
+
+### Food and Agriculture Organization of the United Nations (FAO)
+
+* [Food and agriculture data from 245 countries, bulk download (830MB) available](http://www.fao.org/faostat/en/#home)
+
+### Open Data Institute
+
+* [Community-curated list of additional places to find agricultural data](https://docs.google.com/spreadsheets/d/19kqNFLhMTY396N-n5dgiUXJic8dkpRMesk0xj_fin44/edit?usp=sharing)
+
+### International Coffee Organization 
+
+* [Monthly coffee prices statistics, available for free from 1990 to present day](http://www.ico.org/coffee_prices.asp)
+
 ## Interesting things that can be done
 
 TODO
