@@ -14,7 +14,7 @@ Data Tables, we want to explore these repositories of
 The [collection data](http://collection.cmoa.org/collection-data/) of
 the Carnegie Museum of Art in Pittsburgh, Pennsylvania provided as CSV
 and JSON files uploaded to GitHub.  The datasets are described using a
-`datapackage.json` file.
+`datapackage.json` file: [#22](../../../issues/22)
 
 <https://github.com/cmoa/collection>
 
@@ -22,7 +22,7 @@ and JSON files uploaded to GitHub.  The datasets are described using a
 
 The
 [collection data](http://www.metmuseum.org/blogs/digital-underground/2017/open-access-at-the-met)
-of The Metropolitan Museum of Art in New York.
+of The Metropolitan Museum of Art in New York: [#23](../../../issues/23)
 
 <https://github.com/metmuseum/openaccess>
 
@@ -30,7 +30,7 @@ of The Metropolitan Museum of Art in New York.
 
 The
 [collection data](http://www.tate.org.uk/about/our-work/digital/collection-data)
-of Tate, a family of four galleries holding British art.
+of Tate, a family of four galleries holding British art: [#24](../../../issues/24)
 
 <https://github.com/tategallery/collection>
 
@@ -38,13 +38,13 @@ of Tate, a family of four galleries holding British art.
 
 The
 [collection data](https://labs.cooperhewitt.org/2012/releasing-collection-github/)
-of the Cooper Hewitt, Smithsonian Design Museum in New York.
+of the Cooper Hewitt, Smithsonian Design Museum in New York: [#27](../../../issues/27)
 
 <https://github.com/cooperhewitt/collection>
 
 ### Museum of Modern Art (MoMA)
 
-The [collection data](https://medium.com/@foe/here-s-a-roundup-of-how-people-have-used-our-data-so-far-80862e4ce220) of the Museum of Modern Art (MoMA) in New York.
+The [collection data](https://medium.com/@foe/here-s-a-roundup-of-how-people-have-used-our-data-so-far-80862e4ce220) of the Museum of Modern Art (MoMA) in New York: [#28](../../../issues/28)
 
 <https://github.com/MuseumofModernArt/collection>
 
