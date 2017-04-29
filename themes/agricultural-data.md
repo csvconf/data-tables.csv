@@ -41,12 +41,12 @@
 
 ### Ending Rural Hunger
 
-* [Data catalog detailing Agricultural productivity gaps in countries around the world](https://endingruralhunger.org/data/download/)
+* [Data catalog detailing Agricultural productivity gaps in countries around the world](https://endingruralhunger.org/data/download/): [#39](../../../issues/39)
 * [Ending Rural Hunger API access](https://api.endingruralhunger.org)
 
 ### Food and Agriculture Organization of the United Nations (FAO)
 
-* [Food and agriculture data from 245 countries, bulk download (830MB) available](http://www.fao.org/faostat/en/#home)
+* [Food and agriculture data from 245 countries, bulk download (830MB) available](http://www.fao.org/faostat/en/#home): [#40](../../../issues/40)
 
 ### Open Data Institute
 
@@ -54,7 +54,7 @@
 
 ### International Coffee Organization 
 
-* [Monthly coffee prices statistics, available for free from 1990 to present day](http://www.ico.org/coffee_prices.asp)
+* [Monthly coffee prices statistics, available for free from 1990 to present day](http://www.ico.org/coffee_prices.asp): [#41](../../../issues/41)
 
 ## Interesting things that can be done
 
