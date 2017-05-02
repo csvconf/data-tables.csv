@@ -27,8 +27,8 @@ Time | Facilitator | Session
 Time | Facilitator | Session
 ---- | ------------ | ----
 11a-12:30p | @akariv | **Data Package Pipelines** An exploration of the messy world of ETLing public data, and a suite of tools designed expressly for the unique challenges therein. https://github.com/frictionlessdata/datapackage-pipelines
-1p-3p |  @jasoncrawford | **Fieldbook** Fieldbook is a information tool which combines the best of a database and a spreadsheet. Like a spreadsheet, it has a simple, lightweight grid UI; like a database, it supports relational modeling and querying. Also, every book gets an automatic JSON-based REST API. https://fieldbook.com/
-3:30p-4:30p | (@joehand TBD) | **Dat** Using Dat to Distribute Data Packages https://datproject.org/
+2:30p-3:30p |  @jasoncrawford | **Fieldbook** Fieldbook is a information tool which combines the best of a database and a spreadsheet. Like a spreadsheet, it has a simple, lightweight grid UI; like a database, it supports relational modeling and querying. Also, every book gets an automatic JSON-based REST API. https://fieldbook.com/
+4p-5p | (@joehand TBD) | **Dat** Using Dat to Distribute Data Packages https://datproject.org/
 
 # Data themes
 
